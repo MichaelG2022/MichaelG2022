@@ -1,5 +1,6 @@
 - Hi, I’m Michael Goeres aka @MichaelG2022 on GitHub
 - I’m currently learning Backend Coding through Promineo Tech.
+- I am on week 3, where we are learning arrays and methods.
 - I am looking forward to learning new skills and meeting new people.
 - You can reach me by email or LinkedIn
 
