@@ -1,6 +1,6 @@
 - Hi, my name is Michael Goeres aka @MichaelG2022 on GitHub
 - I’m currently learning Backend Coding through Promineo Tech.
-- I am on week 4, learning the ins and outs of Lists and Collections.
+- I am on week 5, learning the strategies of Object Oreinted Programming.
 - I am looking forward to learning new skills and meeting new people.
 - You can reach me by email or LinkedIn
 
