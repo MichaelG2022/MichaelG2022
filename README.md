@@ -1,6 +1,6 @@
 - Hi, my name is Michael Goeres aka @MichaelG2022 on GitHub
 - I just completed all 18 weeks of Promineo Tech Backend Coding Bootcamp!
-- I had to take two shots at the final project, but I got it finished in time!
+- I struggled to start the final project, but once I got going, it became more and more fun!
 - I look forward to using my skill to develop new applications.
 - You can reach me by email or LinkedIn
 
